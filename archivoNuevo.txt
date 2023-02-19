@@ -1,1 +1,3 @@
 Hola, curioso. ¿Qué haces aquí?
+
+- Curioso ha cambiado este archivo.
